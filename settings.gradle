@@ -1,0 +1,3 @@
+include ':StackCardView'
+include ':app'
+rootProject.name = "StackViewPager"
